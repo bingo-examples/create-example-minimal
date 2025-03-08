@@ -4,6 +4,6 @@
   "type": "module",
   "bin": "index.js",
   "dependencies": {
-    "bingo": "^0.5.6"
+    "bingo": "^0.5.7"
   }
 }
